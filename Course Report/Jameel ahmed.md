@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Logic gates using transistor     | [click here] (https://github.com/sure-trust/G7_ES/tree/main/Mini%20Projects/Jameel%20Ahmed)                        |
+| Mini Projects: Logic gates using transistor     | [click here](https://github.com/sure-trust/G7_ES/tree/main/Mini%20Projects/Jameel%20Ahmed)                        |
 | Final Project: Distance measurement using Ultrasonic sensor on Arduino Uno     | [click here](https://github.com/sure-trust/G7_ES/tree/main/Final%20Capstone%20Project/Jameel%20Ahmed)                         |
