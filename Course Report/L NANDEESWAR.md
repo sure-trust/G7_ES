@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: [L NANDEESWAR]
+## Name: [LINGAM NANDEESWAR]
 
 ## Qualifications: [PURSUING ENGINEERING 3rd year(ECE)]
 Welcome to the course report for the [Embedded Systems and Internet of Things]! This README document provides an overview of the course, its mini projects and final project.
