@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:    Accident Alert System  |[click here](https://github.com/sure-trust/G7_ES/tree/main/Mini%20Projects/Pavan)                         |
-| Final Project: Arduino based temperature monitoring with RGB led    | [click here](https://github.com/sure-trust/G7_ES/tree/main/Final%20Capstone%20Project/Pavan)                        |
+| Mini Projects:Accident Alert System   | [click here](https://github.com/sure-trust/G7_ES/tree/main/Mini%20Projects/Pavan)                       |
+| Final Project: Arduino based temperature monitoring with RGB led     |  [click here](https://github.com/sure-trust/G7_ES/tree/main/Final%20Capstone%20Project/Pavan)                        |
