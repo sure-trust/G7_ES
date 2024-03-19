@@ -2,35 +2,42 @@
 <br />
 
 <div align="center">
-   <img src='https://user-imagEmbedded System.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
+   <img src='https://user-images.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>  Embedded System - G7 </h2>
+  <h2> Embedded Systems - G7 </h2>
 </div>
 
-Welcome to the SURE Trust G7 Embedded System Training repository. This repository servEmbedded System as a central hub for all materials and rEmbedded SystemourcEmbedded System related to the training course during the second batch of training Embedded System Training course.
+Welcome to the SURE Trust G7 ESTraining repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training ES course.
 
 ## About SURE Trust
 
-SURE Trust is a registered NGO committed to eradicating the disparity between skills acquired through academia and those demanded by industriEmbedded System. SURE Trust equips educated unemployed youth, particularly in rural sectors, with the Embedded Systemsential proficienciEmbedded System required to thrive in an ever-evolving job landscape by offering cross-disciplinary training at no cost. Recognizing the importance of accEmbedded Systemsible, high-quality training in today's technology-driven world, SURE Trust addrEmbedded SystemsEmbedded System the upcoming shift with nearly half of India's population projected to live in rural areas by 2050. This change emphasizEmbedded System the crucial necEmbedded Systemsity for empowering the rural workforce, which constitutEmbedded System a substantial 70% of the total workforce. The vision of SURE Trust encompassEmbedded System not just technical skills but also instilling human valuEmbedded System and awakening the instinct of giving back to society through its 'ServicEmbedded System to Community' programs. 
+SURE Trust is a registered NGO committed to eradicating the disparity between skills acquired through academia and those demanded by industries. SURE Trust equips educated unemployed youth, particularly in rural sectors, with the essential proficiencies required to thrive in an ever-evolving job landscape by offering cross-disciplinary training at no cost. Recognizing the importance of accessible, high-quality training in today's technology-driven world, SURE Trust addresses the upcoming shift with nearly half of India's population projected to live in rural areas by 2050. This change emphasizes the crucial necessity for empowering the rural workforce, which constitutes a substantial 70% of the total workforce. The vision of SURE Trust encompasses not just technical skills but also instilling human values and awakening the instinct of giving back to society through its 'Services to Community' programs. 
 
-## Python Course Registration
+## ES Course Registration
 
-To enroll in the Embedded System, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/coursEmbedded System)
+To enroll in the ES course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
+|Student name | Link |
+|-------------|------|
+|Jameel Ahmed|[CLICK HERE](https://github.com/sure-trust/G7_ES/blob/main/Course%20Report/Jameel%20ahmed.md)|
+|Nandeeswar|[CLICK HERE](https://github.com/sure-trust/G7_ES/blob/main/Course%20Report/L%20NANDEESWAR.md)|
+|Renuka|[CLICK HERE](https://github.com/sure-trust/G7_ES/blob/main/Course%20Report/Renuka.md)|
+|Pavan|[CLICK HERE](https://github.com/sure-trust/G7_ES/blob/main/Course%20Report/pavan.md)|
+|Vivek Sai|[CLICK HERE](https://github.com/sure-trust/G7_ES/blob/main/Course%20Report/viveksai.md)|
 
-## Repository DEmbedded Systemcription
+## Repository Description
 
-This repository is dEmbedded Systemigned to support the G7 Embedded System program at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G7 ES training program at SURE Trust. It follows the below mentioned organization structure:
 
-- *Mini Projects*: A repository holding code filEmbedded System of the mini projects undertaken during the course.
-- *Final Project*: A comprehensive compilation of code filEmbedded System and rEmbedded SystemourcEmbedded System of the final projects.
-- *Course Reports*: A repository containing course reports authored by students, documenting their individual progrEmbedded Systems and experiential insights.
+- **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
+- **Final Project**: A comprehensive compilation of code files and resources of the final projects.
+- **Course Reports**: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
 
-Feel welcome to navigate through each dEmbedded Systemignated folder to accEmbedded Systems specific, targeted rEmbedded SystemourcEmbedded System. 
+Feel welcome to navigate through each designated folder to access specific, targeted resources. 
 
-We encourage collaboration and participation from all learners. If you have any quEmbedded Systemtions, suggEmbedded Systemtions, or improvements to contribute, please don't hEmbedded Systemitate to get involved.
+We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
 
-For any inquiriEmbedded System or necEmbedded Systemsary assistance, we encourage you to connect with SURE Trust via our [official website](https://suretrustforruralyouth.com/). Your queriEmbedded System will be promptly addrEmbedded Systemsed by our dedicated team.
+For any inquiries or necessary assistance, we encourage you to connect with SURE Trust via our [official website](https://suretrustforruralyouth.com/). Your queries will be promptly addressed by our dedicated team.
