@@ -23,4 +23,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [SMART DUSTBIN]     | [CLick Here](https://github.com/sure-trust/G7_ES/tree/main/Mini%20Projects/Nandeeswar)                      |
-| Final Project: [SMART DUSTBIN]     | [Click Here](https://github.com/sure-trust/G7_ES/tree/main/Final%20Capstone%20Project Nandeeswar)                         |
+| Final Project: [SMART DUSTBIN]     | [Click Here](https://github.com/sure-trust/G7_ES/tree/main/Final%20Capstone%20Project/Nandeeswar)                         |
